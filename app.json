@@ -1,0 +1,7 @@
+{
+    "name": "atlas-to-stores-py",
+    "language": "python",
+    "resources": {
+        "source_name": "fixtures/demo-cdc.json"
+    }
+}
